@@ -30,6 +30,16 @@ A computer vision–based system that counts the number of people entering or ex
 
 ---
 
+### 5. Screenshots
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/f77e01eb-76c4-4c1b-9e4e-0af8f7a83d63" />
+
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/4f4c634d-0a6b-4c63-b5a0-1f7a8aa95ca2" />
+
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/8ab56fed-3622-4d6e-8326-3d73834f0fac" />
+
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/e64ddb01-c10b-472b-8746-5ef6688158cd" />
+
+
 ## ⚙️ Dependencies
 
 ```bash

@@ -8,7 +8,7 @@ A computer vision–based system that counts the number of people entering or ex
 ## 🧠 Approach
 
 ### 1. Detection
-- Uses **YOLOv8n (Ultralytics)** pretrained model (`yolov8n.pt`) for human detection (class `0`).
+- Uses **YOLOv8n (Ultralytics)** (`yolov8n.pt`) for human detection (class `0`).
 - Detects bounding boxes in each frame.
 
 ### 2. Tracking
@@ -33,4 +33,4 @@ A computer vision–based system that counts the number of people entering or ex
 ## ⚙️ Dependencies
 
 ```bash
-pip install ultralytics opencv-python numpy scipy
+pip install opencv-python opencv-contrib-python ultralytics numpy pillow tqdm filterpy scikit-learn scipy

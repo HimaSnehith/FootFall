@@ -1,11 +1,11 @@
 # Footfall Counter using Computer Vision
 
-## 📌 Objective
+## Objective
 A computer vision–based system that counts the number of people entering or exiting through a specific area in a video (e.g., doorway, corridor, gate) using object detection and tracking.
 
 ---
 
-## 🧠 Approach
+## Approach
 
 ### 1. Detection
 - Uses **YOLOv8n (Ultralytics)** (`yolov8n.pt`) for human detection (class `0`).
@@ -40,7 +40,7 @@ A computer vision–based system that counts the number of people entering or ex
 <img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/e64ddb01-c10b-472b-8746-5ef6688158cd" />
 
 
-## ⚙️ Dependencies
+## Dependencies
 
 ```bash
 pip install opencv-python opencv-contrib-python ultralytics numpy pillow tqdm filterpy scikit-learn scipy
